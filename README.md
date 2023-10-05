@@ -40,7 +40,7 @@ catkin_make -DCMAKE_BUILD_TYPE=RelWDebInfo
 ```
 
 ## [Range-aided localization](https://github.com/utiasDSL/ra_sam)
-This repository contains core localization algorithms. Details on usage can be found in the corresponding repository: [link](https://github.com/utiasDSL/ra_sam)
+This repository contains core localization algorithms. Instructions on running the algorithms can be found in the corresponding repository: [link](https://github.com/utiasDSL/ra_sam)
 
 
 ## Range-aided navigation

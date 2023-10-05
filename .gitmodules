@@ -1,0 +1,6 @@
+[submodule "ra_sam"]
+	path = ra_sam
+	url = https://github.com/utiasDSL/ra_sam
+[submodule "measurement_msgs"]
+	path = measurement_msgs
+	url = https://github.com/utiasDSL/measurement_msgs

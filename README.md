@@ -45,3 +45,11 @@ This repository contains core localization algorithms. Details on usage can be f
 
 ## Range-aided navigation
 Coming soon
+
+
+## Known issues
+1. In some cases, after installing GTSAM, `libmetis-gtsam.so` might not be found during roslaunch, resulting in `ra_sam` node ending abruptly. This can be addressed by updating the library path:
+   ```
+   echo export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib" >> ~/.bashrc
+   source ~/.bashrc
+   ```

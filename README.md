@@ -1,6 +1,9 @@
 # Range-aided Localization and Navigation
 This repository hosts other repositories targeted towards range-aided localization and navigation.
 
+## Note
+Not all features of the algorithms have been merged into the main branch. We are in the process of updating the code base.
+
 ## Dependencies
 The main dependencies are ROS for communication and [GTSAM](https://github.com/borglab/gtsam) for locaization.
 

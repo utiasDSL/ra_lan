@@ -20,10 +20,12 @@ sudo apt-get install cmake
 git clone https://github.com/abhigoudar/gtsam.git -b custom_feature
 cd gtsam
 mkdir build
+cd build/
 cmake ..
 make check
 make install
 ```
+NOTE: you may have to provide root permission for the installation. 
 
 ### Setup ROS workspace
 
@@ -31,8 +33,8 @@ make install
 ```
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
-git clone https://github.com/utiasDSL/ra_lnc.git
-cd ra_lnc
+git clone https://github.com/utiasDSL/ra_lan.git
+cd ra_lan
 git submodule init && git submodule update
 ```
 

@@ -20,7 +20,7 @@ sudo apt-get install cmake
 git clone https://github.com/abhigoudar/gtsam.git -b custom_feature
 cd gtsam
 mkdir build
-cd build/
+cd build
 cmake ..
 make check
 make install

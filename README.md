@@ -58,3 +58,14 @@ Coming soon
    echo export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/usr/local/lib" >> ~/.bashrc
    source ~/.bashrc
    ```
+## Citation
+
+If you use this repository in your research, please use the following citation:
+
+```
+@misc{agoudar2023raloc,
+      title = {UTIAS Range-Aided Localization Dataset}, 
+      author = {Abhishek Goudar, Wenda Zhao, and Angela P. Schoellig},
+      year= {2023},
+      url = {https://github.com/abhigoudar/utias_ra_loc}
+}

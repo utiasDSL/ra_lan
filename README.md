@@ -13,6 +13,7 @@ The main dependencies are ROS for communication and [GTSAM](https://github.com/b
 ```
 sudo apt-get install libboost-all-dev
 sudo apt-get install cmake
+sudo apt-get install libyaml-cpp-dev
 ```
 
 3. We require a slightly modified version of GTSAM:

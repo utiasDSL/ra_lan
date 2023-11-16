@@ -1,6 +1,20 @@
 # Range-aided Localization and Navigation
 This repository hosts other repositories targeted towards range-aided localization and navigation.
 
+## Citation
+
+If you use this repository in your research, please use the following citation:
+
+```
+@misc{goudar2023rangevisualinertial,
+      title={Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation}, 
+      author={Abhishek Goudar and Wenda Zhao and Angela P. Schoellig},
+      year={2023},
+      eprint={2311.09056},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+
 ## Note
 Not all features of the algorithms have been merged into the main branch. We are in the process of updating the code base.
 

@@ -1,5 +1,5 @@
 # Range-aided Localization and Navigation
-This repository hosts other repositories targeted towards range-aided localization and navigation.
+This repository hosts other repositories targeted towards range-aided localization and navigation. The core algorithms and methodology can be found in our paper: [link](https://arxiv.org/abs/2311.09056)
 
 ## Citation
 
